@@ -4,6 +4,23 @@
 To Develop a C# program to get the values from the students such as name, age, department, and semester_percentage using the structure and store it in a file in a specific path using the file stream concept.
 
 ## Algorithm:
+### step 1: 
+Create a structure of student details.
+
+### step 2:
+Create a file using FileStream.
+
+### step 3:
+Get the number of students and their details from the user.
+
+### step 4:
+Create a function to write the details of the students in the created file.
+
+### step 4:
+Pass the details of the student to the function.
+
+### step 5:
+File has been created and written with student details.
 
 ## Program:
 ```c#
