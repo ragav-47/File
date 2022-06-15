@@ -16,10 +16,10 @@ Get the number of students and their details from the user.
 ### step 4:
 Create a function to write the details of the students in the created file.
 
-### step 4:
+### step 5:
 Pass the details of the student to the function.
 
-### step 5:
+### step 6:
 File has been created and written with student details.
 
 ## Program:
