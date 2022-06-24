@@ -1,4 +1,6 @@
-# File
+### EX NO : 10
+### DATE  : 08.06.2022
+# <p align="center">File</p>
 
 ## Aim:
 To Develop a C# program to get the values from the students such as name, age, department, and semester_percentage using the structure and store it in a file in a specific path using the file stream concept.
@@ -21,6 +23,8 @@ Pass the details of the student to the function.
 
 ### step 6:
 File has been created and written with student details.
+
+<br/><br/><br/><br/><br/><br/>
 
 ## Program:
 ```c#
